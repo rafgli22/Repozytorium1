@@ -19,7 +19,8 @@ sp=pi*r*r;        // pole podstawy stozka
 sb=pi*r*l;        // pole powierzchni bocznej stozka
 float pole;
 pole=sb+sp;
-cout<<"Pole powierzchni calkowitgrgr4grgrg
+cout<<"Pole powierzchni calkowitej stozka wynosi : "<<pole<<endl;
+}
 
 
 
