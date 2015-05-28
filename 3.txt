@@ -5,7 +5,7 @@
 main()
 {
 const float pi=3.141592654;
-cout<<"Program oblicza pole powierzchni calkowitej stozka"<<endl;
+cout<<"Program oblicza pole powierzchni calkowitej
 cout<<"Podaj wysokosc stozka : ";
 int h;
 cin>>h;
